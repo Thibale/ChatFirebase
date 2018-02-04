@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="name_picker">Choissisez votre nom</string>
+    <string name="send">Envoyer</string>
+    <string name="continuer">Continuer</string>
+    <string name="deconnexion">Se déconnecter</string>
+    <string name="modify">Modifier</string>
+    <string name="delete">Supprimer</string>
+
+</resources>

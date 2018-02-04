@@ -6,7 +6,7 @@
   * Modification et suppression de messages
 
 ### Installation :
-Téléchargez et installez sur votre mobile l'apk suivant : [release](https://github.com/Thibale/ChatFirebase/releases)
+Téléchargez et installez sur votre mobile l'apk suivant : [APK Application](https://github.com/Thibale/ChatFirebase/releases)
 
 ### Screenshots:
 ![screen1](ressources/screenshot1.png)
